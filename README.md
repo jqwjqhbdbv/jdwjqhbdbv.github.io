@@ -11,3 +11,32 @@ You can use online link for the project now.
 Ver1.0 is the first version, maybe the last too. As Microsoft make it possible to use easily, everybody can use that one. This project is created for my fans and friends. If you want to connect me, you can focus my bilibili account and wechat. This is Smile, let's meet on the mountain top.
 
 如果你想联系我，或者在使用时需要帮助，可以添加我的微信号：liuyi879230
+# chatgpt-web
+
+This template should help get you started developing with Vue 3 in Vite.
+
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
