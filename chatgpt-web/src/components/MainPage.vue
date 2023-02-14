@@ -18,7 +18,7 @@
     </ul>
     <div class="loading-desc">
       <p>want to use it better? Contact and focus me...</p>
-      <p>想要更好的使用ChatGPT么？联系我……</p>
+      <p>想要更好的使用ChatGPT么？联系我+v:liuyi879230……</p>
     </div>
   </div>
 </template>
