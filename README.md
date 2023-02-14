@@ -16,7 +16,7 @@ You can use online link for the project now.
 
 你可以点击下面的链接直接使用。
 
-[ChatGPT-Web online](https://jdwjqhbdbv.github.io/ChatGPT-Web/) # 待定
+[ChatGPT-Web online](https://jdwjqhbdbv.github.io/jdwjqhbdbv.github.io/) # 待定
 
 # See you on the mountain top of New AI's World.
 
