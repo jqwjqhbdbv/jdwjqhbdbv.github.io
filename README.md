@@ -1,9 +1,9 @@
 
-![GitHub](https://img.shields.io/github/license/SmileBuild/ChatGPT-Web)
-![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/SmileBuild/Chatgpt-Web?filename=chatgpt-web%2Fpackage.json)
-![Last Commit](https://img.shields.io/github/last-commit/SmileBuild/Chatgpt-Web)
-[![pages-build-deployment](https://github.com/SmileBuild/ChatGPT-Web/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/SmileBuild/ChatGPT-Web/actions/workflows/pages/pages-build-deployment)
-![GitHub Repo stars](https://img.shields.io/github/stars/smilebuild/ChatGPT-Web)
+![GitHub](https://img.shields.io/github/license/jqwjqhbdbv/jdwjqhbdbv.github.io)
+![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/SmileBuild/Chatgpt-Web?filename=jqwjqhbdbv/jdwjqhbdbv.github.io%2Fpackage.json)
+![Last Commit](https://img.shields.io/github/last-commit/jqwjqhbdbv/jdwjqhbdbv.github.io)
+[![pages-build-deployment](https://github.com/jqwjqhbdbv/jdwjqhbdbv.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/jqwjqhbdbv/jdwjqhbdbv.github.io/actions/workflows/pages/pages-build-deployment)
+![GitHub Repo stars](https://img.shields.io/github/stars/jqwjqhbdbv/jdwjqhbdbv.github.io)
  ![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
 # ChatGPT-Web
 ChatGPT page with API instand of offical pages.
@@ -16,7 +16,7 @@ You can use online link for the project now.
 
 你可以点击下面的链接直接使用。
 
-[ChatGPT-Web online](https://jdwjqhbdbv.github.io/ChatGPT-Web/)
+[ChatGPT-Web online](https://jdwjqhbdbv.github.io/ChatGPT-Web/) # 待定
 
 # See you on the mountain top of New AI's World.
 
